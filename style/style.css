@@ -60,7 +60,7 @@ section p {
 #section-2 {
     padding-top: 85px;
     padding-bottom: 85px;
-    background: yellow url('/public/background001.jpg') center right no-repeat fixed;
+    background: yellow url('/imgs/background001.jpg') center right no-repeat fixed;
     background-size: cover;
     padding-left: 20px;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
@@ -91,7 +91,7 @@ section p {
 #section-5 {
     padding-top: 85px;
     padding-bottom: 85px;
-    background: gray url('/public/background002.jpg') center right no-repeat fixed;
+    background: gray url('/imgs/background002.jpg') center right no-repeat fixed;
     background-size: cover;
     padding-left: 20px; 
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
