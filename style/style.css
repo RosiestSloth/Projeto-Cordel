@@ -62,7 +62,7 @@ section p {
     padding-bottom: 85px;
     background: yellow url('/public/background001.jpg') center right no-repeat fixed;
     background-size: cover;
-    padding-left: 30px;
+    padding-left: 20px;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
 }
 
@@ -72,4 +72,18 @@ section p {
     color: white;
     background-color: rgba(0, 0, 0, 0.336);
     width: 45vw;
+}
+
+#section-3 {
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+
+#paragrafo-3 {
+    padding-left: 30px
+}
+
+#paragrafo-4 {
+    margin-top: 85px;
+    padding-left: 30px;
 }
