@@ -104,3 +104,17 @@ section p {
     color: white;
     text-shadow: 1px 1px 1px black;
 }
+
+#section-6 {
+    padding-top: 85px;
+    padding-bottom: 85px;
+}
+
+#paragrafo-6 {
+    padding-left: 30px;
+}
+
+#paragrafo-7 {
+    padding-left: 30px;
+    margin-top: 85px;
+}
