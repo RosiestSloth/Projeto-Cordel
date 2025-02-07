@@ -1,5 +1,7 @@
 @charset 'UTF-8';
+
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
 @import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&family=Sriracha&display=swap');
 
 
@@ -12,6 +14,22 @@
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
     --fonte2: 'Passion One', cursive;
     --fonte3: 'Sriracha', cursive;
+}
+
+@media(max-width: 768px) {
+    section p {
+        font-family: var(--fonte3);
+        font-size: 5vw !important;
+        line-height: 7vw;
+    }
+
+    #paragrafo-2 {
+        width: 60vw !important;
+    }
+
+    #paragrafo-5 {
+        width: 60vw !important;
+    }
 }
 
 header {
