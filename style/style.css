@@ -15,11 +15,32 @@
 }
 
 header {
+    text-align: center;
     color: white;
     background-color: black;
 }
 
-header h1
+header h1 {
+    padding-top: 50px;
+    font-size: 10vw;
+    font-variant: small-caps;
+    font-family: var(--fonte2);
+}
+
+header p {
+    font-family: var(--fonte1);
+    padding-bottom: 50px;
+}
+
+header p > a {
+    color: white;
+    font-weight: 900;
+    text-decoration: none;
+}
+
+header p > a:hover {
+    text-decoration: underline;
+}
 
 section p {
     font-family: var(--fonte3);
