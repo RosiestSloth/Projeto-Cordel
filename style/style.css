@@ -44,4 +44,15 @@ header p > a:hover {
 
 section p {
     font-family: var(--fonte3);
+    font-size: 3.5vw;
+    line-height: 7vw;
+}
+
+#section-1 {
+    padding-top: 85px;
+    padding-bottom: 100px;
+}
+
+#paragrafo-1 {
+    padding-left: 30px;
 }
