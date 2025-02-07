@@ -67,11 +67,11 @@ section p {
 }
 
 #paragrafo-2 {
-    text-shadow: 2px 2px 1px black;
+    text-shadow: 1px 1px 1px black;
     padding-left: 10px;
     color: white;
-    background-color: rgba(0, 0, 0, 0.336);
-    width: 45vw;
+    background-color: rgba(0, 0, 0, 0.514);
+    width: 42vw;
 }
 
 #section-3 {
@@ -86,4 +86,21 @@ section p {
 #paragrafo-4 {
     margin-top: 85px;
     padding-left: 30px;
+}
+
+#section-5 {
+    padding-top: 85px;
+    padding-bottom: 85px;
+    background: gray url('/public/background002.jpg') center right no-repeat fixed;
+    background-size: cover;
+    padding-left: 20px; 
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.473);
+}
+
+#paragrafo-5 {
+    background-color: rgba(0, 0, 0, 0.514);
+    width: 42vw;
+    padding-left: 10px;
+    color: white;
+    text-shadow: 1px 1px 1px black;
 }
