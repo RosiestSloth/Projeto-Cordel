@@ -118,3 +118,24 @@ section p {
     padding-left: 30px;
     margin-top: 85px;
 }
+
+footer {
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+footer p {
+    font-family: var(--fonte1);
+    color: white;
+}
+
+footer p > a {
+    color: white;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+footer p > a:hover {
+    text-decoration: underline;
+}
