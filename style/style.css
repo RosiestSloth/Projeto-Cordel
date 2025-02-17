@@ -99,7 +99,7 @@ section p {
     padding-left: 10px;
     color: white;
     background-color: rgba(0, 0, 0, 0.514);
-    width: 42vw;
+    display: inline-block;
 }
 
 #section-3 {
